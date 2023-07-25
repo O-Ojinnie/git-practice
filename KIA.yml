@@ -1,6 +1,10 @@
 team : KIA
 manager : 전에스더
+<<<<<<< HEAD
 coach : AAAAA
+=======
+coach : BBBB
+>>>>>>> 6891a2fcd2360b492b50118e3a66f4004bd269c1
 
 members :
 - 양현종
