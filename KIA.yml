@@ -1,6 +1,11 @@
 team : KIA
+<<<<<<< HEAD
 manager : 전에스더
 coach : AAA
+=======
+manager : 안재진
+coach : BBB
+>>>>>>> 3dfcc9c0647837afc7c2700b73dcdee024639220
 
 members :
 - 양현종
